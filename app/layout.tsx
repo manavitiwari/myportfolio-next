@@ -24,7 +24,7 @@ export default function RootLayout({
               <Link className="font-bold" href="#">
                 Home
               </Link>
-              <Link href="#">About</Link>
+              <Link href="about">About</Link>
               <Link href="#">Projects</Link>
               <Link href="#">Contact</Link>
             </nav>
